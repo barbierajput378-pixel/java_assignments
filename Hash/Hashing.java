@@ -1,3 +1,4 @@
+pakage hash;
 import java.util.*;
 //class contact
 class Contact{
